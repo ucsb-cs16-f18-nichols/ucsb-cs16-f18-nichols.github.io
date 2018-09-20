@@ -1,8 +1,8 @@
 ---
-title: "CS 16: Problem Solving with Computers -I , Spring 18, Mirza"
+title: "CS 16: Problem Solving with Computers I, Fall ’18, Nichols"
 ---
 
-# CS 16: Problem Solving with Computers -I , Spring 18 
+# CS 16: Problem Solving with Computers I, Fall ’18, Nichols
 
 <!--{{site.course}}, {{site.quarter}}-->
 
