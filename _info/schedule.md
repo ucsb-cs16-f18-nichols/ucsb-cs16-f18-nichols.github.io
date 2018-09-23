@@ -7,7 +7,7 @@ layout: default
 # Schedule <a name="schedule"></a>
 
 * **Lecture**: TR 2:00pm -- 3:15pm NH 1105, ATTENDANCE IS HIGHLY RECOMMENDED.
-* **Lab**:(50 minute discussion sections) Wednesdays starting at 3pm or 4pm, PHELPS 2510.
+* **Lab**:(50 minute discussion sections) Wednesdays starting at 3pm or 4pm, SSMS 1302.
 
 ## Schedule of lectures, open lab hours and office hours.
 
