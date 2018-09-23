@@ -21,6 +21,7 @@ cal_dates: >
   {"label":"Last day of classes", "date":"2018-12-07" },						
   ]
 
+future: false
 
 course: "CS16"
 legacy_wiki_name: 16wiki
@@ -28,8 +29,9 @@ legacy_wiki_url: "https://foo.cs.ucsb.edu/16wiki"
 qtr: "F18"
 quarter: "Fall 2018"
 
-kramdown:
-   parse_block_html: true
+markdown: kramdown
+kramdown: 
+  parse_block_html: true
 
 
 exclude:
