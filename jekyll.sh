@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
 
-bundle exec jekyll serve --port 4001
+[[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm"
 
+rvm use
+bundle exec jekyll serve

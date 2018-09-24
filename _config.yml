@@ -1,6 +1,27 @@
 name: "CS 16 Fall 2018"
 github_url: https://github.com/ucsb-cs16-f18-nichols/ucsb-cs16-f18-nichols.github.io
 
+
+instances:
+  -
+    instructor: Mirza
+    site_url: "https://ucsb-cs16-f18-mirza.github.io"
+    github_org:
+       name: ucsb-cs16-f18-mirza
+       url: https://github.com/ucsb-cs16-f18-mirza
+    piazza_url:  https://piazza.com/ucsb/fall2018/cs16nichols/home
+    gradescope_url: https://www.gradescope.com/courses/25325       
+  -
+    instructor: Nichols
+    site_url: "https://ucsb-cs16-f18-nichols.github.io"    
+    github_org:
+       name: ucsb-cs16-f18-nichols
+       url: https://github.com/ucsb-cs16-f18-nichols
+    piazza_url:  https://piazza.com/ucsb/fall2018/cs16nichols/home
+    gradescope_url: https://www.gradescope.com/courses/25325
+
+
+
 on_campus: http://proquest.safaribooksonline.com
 off_campus: http://proquest.safaribooksonline.com.proxy.library.ucsb.edu:2048
 
