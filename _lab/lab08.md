@@ -12,11 +12,9 @@ due: 2018-12-07 23:59:00.00-7
 # Goals of this lab
 This lab will have you do programming exercises with C strings, string class objects, recursive functions, and Makefiles. You will also get more practice writing programs from scratch with little skeleton code.
 
-To get credit show the final screen of the completed survey to your mentor.
-
 # Step 1: Getting Started
 
-1. Decide if you are working alone, or working in a pair. Pair programming is OPTIONAL for this lab.
+1. Decide if you are working alone, or working in a pair.
 
 2. If you are working as a pair, go to submit.cs, navigate to this lab page and create a team for you and your pair partner.  Choose who will be the first driver and who will start as navigator, and then remember to switch (at least once) during the lab.
 

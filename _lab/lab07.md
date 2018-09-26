@@ -16,7 +16,7 @@ The goal of this lab is get more practice with iterating through linked lists an
 
 ## Step 1: Getting Started
 
-1. Decide if you are working alone, or working in a pair. Pair programming is OPTIONAL for this lab.
+1. Decide if you are working alone, or working in a pair.
 
 2. Choose who will be the first driver and who will start as navigator, and then remember to switch (at least once) during the lab.
 

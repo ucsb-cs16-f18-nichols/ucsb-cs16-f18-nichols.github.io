@@ -56,7 +56,7 @@ min2.cpp  min3v1.cpp  min3v2.cpp README.md
 -bash-4.2$
 ```
 
-If you don't see those files, work with your pair partner to go back through the instructions and make sure you didn't miss a step. If you still have trouble, ask your mentor for assistance.
+If you don't see those files, work with your pair partner to go back through the instructions and make sure you didn't miss a step. If you still have trouble, ask your TA for assistance.
 
 ## Create a repo on github in our class organization
 
@@ -340,9 +340,6 @@ Log into your account on [https://www.gradescope.com/](https://www.gradescope.co
 
 ## Done!<a name="done"></a>
 
-Check in with your mentor to get marked for completing the lab.
-Discuss with them any challenges you faced while completing the lab. If you haven't finished the lab (as is expected) discuss with your mentor when you can come to the open lab hours to finish the rest of the lab.
-
 You are now done with this assignment!
 If you are in the Phelps lab or in CSIL, make sure to log out of the machine before you leave. Also, make sure to close all open programs before you log out. Some programs will not work next time if they are not closed. Remember to save all your open files before you close your text editor.
 
@@ -362,8 +359,7 @@ In addition to the points given by gradescope, our staff will be manually gradin
 5. Code is not unnecessarily or unreasonably complex when a simpler solution is available
 
 In completing this lab you must also demonstrate an understanding of the following: 
-* for-loops and if-else structure. Mentor may ask you to explain your block program 
-* pair programming - ask your mentor for feedback on how you are doing as a pair!
+* for-loops and if-else structure
 
 # Github Resources
 * [Overview of git](https://ucsb-cs56-pconrad.github.io/topics/git_overview/)

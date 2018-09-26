@@ -15,7 +15,7 @@ The goal of this lab is get more practice with iterating through arrays and dyna
 
 ## Step 1: Getting Started
 
-1. Decide if you are working alone, or working in a pair. Pair programming is OPTIONAL for this lab.
+1. Decide if you are working alone, or working in a pair.
 
 2. If you are working as a pair, make sure that you submit as a pair on Gradescope at the end of the lab.  Choose who will be the first driver and who will start as navigator, and then remember to switch (at least once) during the lab.
 

@@ -13,7 +13,7 @@ due: 2018-10-23 23:59:00.00-7
 
 * Remotely log into your account on the csil servers and try to complete Step 1a of the lab that walks you through doing some initial ONE-TIME git configurations in your CoE account on CSIL.
 
-*Read through the entire lab, and identify parts that seem unclear to you. You can let your mentor know about this at the beginning of the lab.
+*Read through the entire lab, and identify parts that seem unclear to you. You can let your TA know about this at the beginning of the lab.
 
 # Goals for this lab
 
