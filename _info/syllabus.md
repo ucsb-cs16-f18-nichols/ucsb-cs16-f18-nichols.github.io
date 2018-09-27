@@ -25,9 +25,10 @@ You must contact the instructor for clarification if you receive information fro
 * Midterm Exams: 30%
 * Final Examination : 30%
 
-<p>To get credit for each homework, you must complete the corresponding quiz on gauchospace which is based on the homework. This will count as your homework turn in and is the only way to get credit for your homework. 
+<p>To get credit for each homework, you must complete the corresponding quiz on gauchospace which is based on the homework. This will count as your homework turn in and is the only way to get credit for your homework. </p>
 
 ## Grade assignment policy
+
 <table border="2">
   <tr>
     <td>A/A+</td>
@@ -65,9 +66,9 @@ You must contact the instructor for clarification if you receive information fro
   </tr>
     <td>F</td>
     <td>Below 60</td>
-
 </table>
-<p><strong>Curving: </strong>The grade  scale above represents the <em>minimum</em> letter grade you will be assigned&#8212;at the instructor's discretion, the grading scale  may be altered <em>in the students' favor</em> if this will be better reflect the students' mastery of the material. Thus, <em>if</em> there is a &quot;curve&quot;, it will be applied at the <em>end</em>, not to individual assignments.</p>
+
+<p><strong>Curving: </strong>The grade  scale above represents the <em>minimum</em> letter grade you will be assigned&#8212;at the instructor's discretion, the grading scale  may be altered <em>in the students' favor</em> if this will better reflect the students' mastery of the material. Thus, <em>if</em> there is a &quot;curve&quot;, it will be applied at the <em>end</em>, not to individual assignments.</p>
 <p><strong>A+ grades: </strong>These may be awarded to the very best performing students in the class—but the cutoff for A+ grades will be determined at the end of the course at the discretion of the instructor (there is no pre-determined cutoff---an average of 97 or more doesn't guarantee you an A+ grade.)</p>
 
 <p><strong><em>Everything</em> is cumulative—that's just how CS is.</strong></p>
@@ -78,8 +79,9 @@ You must contact the instructor for clarification if you receive information fro
 
 # Schedule <a name="schedule"></a>
 
-For office hours please check the [course Google Calendar](/info/schedule/)
-For hw, lab and exam schedule, please check the [assignment calendar](/info/calendar/)
+For office hours please check the [course Google Calendar](/info/schedule/).
+
+For hw, lab and exam schedule, please check the [assignment calendar](/info/calendar/).
 
 
 # Resources <a name="resources"></a>
@@ -88,7 +90,7 @@ For hw, lab and exam schedule, please check the [assignment calendar](/info/cale
 
 * Textbook: Problem Solving with C++, Walter Savitch, Edition 9. Available for purchase at the UCSB book store
 
-* Peer Instruction : iClickers: The course lectures will follow a Peer Instruction format, a teaching model which places stronger emphasis on classroom discussion and student interaction. As part of this you will need to own an iClicker register it on the [Gauchospace](https://gauchospace.ucsb.edu/courses/course/view.php?id=1524)). Be sure to register your clicker by the end of the first week.
+* iClickers: You will need to own an iClicker register it on the [Gauchospace](https://gauchospace.ucsb.edu/courses/course/view.php?id=34359). Be sure to register your clicker by the end of the first week.
 
 ## Exam Resources
 
@@ -221,16 +223,16 @@ be comfortable with all of the following:</p>
   <li><strong>(2) Homework/Quizzes</strong>
     <br />The homeworks are practice for the exams. These are typically pencil/paper type problems, though sometimes you'll need access to a computer to solve them. If you don't have reliable access to a computer at home (or in your dorm), please plan your schedule so that you can spend time in the CSIL computer lab between classes.<br />
     <br />
-    Homework assignments are completed on paper, followed by completing a quiz on gauchospace. You should bring your the paper copy of your homework to lecture the day after its due for in class discussions. We will not collect the homeworks<br />
+    Homework assignments are completed on paper, followed by completing a quiz on gauchospace. You should bring your the paper copy of your homework to lecture the day after it's due for in class discussions. We will not collect the homeworks.<br />
     <br />
     <br />
      <br />
   </li>
 
-  <li><strong>(3) Programming Assignments (Labs)</strong>—Programming assignments (also called labs) are given once a week, and are typically started in the Wednesday lab sessions, and finished on your own time outside of lab. You must however, read the assignment and attempt the parts that you do with little assistant as soon as the assignment is released. The assumption is that you at the very least read the assignment before section. Labs will typically involve pair programming, which is described later in this syllabus.<br />
+  <li><strong>(3) Programming Assignments (Labs)</strong>—Programming assignments (also called labs) are given once a week, and are typically started in the Wednesday lab sessions, and finished on your own time outside of lab. You must however, read the assignment and attempt the parts that you do with little assistant as soon as the assignment is released. The assumption is that you at the very least read the assignment before section. You are encouraged to use pair programming in most of the labs.<br />
     <br />
   </li>
-  <li><strong>(4) Lectures</strong>—Learning is something that you do as a student, not something that is &quot;done to you&quot; by a teacher. Therefore most of the learning you will do in this course takes place when you are actively involved in doing something challenging, i.e. during the homework assignments, and labs. Most of the information you will need to do those assignments will come from the reading. <br />
+  <li><strong>(4) Lectures</strong>—Learning is something that you do as a student, not something that is &quot;done to you&quot; by a teacher. Therefore most of the learning you will do in this course takes place when you are actively involved in doing something challenging (i.e., during the homework assignments and labs). Most of the information you will need to do those assignments will come from the reading. <br />
     <br />
     Therefore, you may ask, what is the purpose of the lectures?<br />
       <br />
@@ -246,7 +248,7 @@ be comfortable with all of the following:</p>
         </ul>
   </li>
 
-<li><strong>(5) Exams</strong>&mdash;There are three exams in this course— two midterms and a final. No Makeups will be given for the final exam. Please make sure that you have no conflicts with the final if you are taking this course</li>
+<li><strong>(5) Exams</strong>&mdash;There are three exams in this course— two midterms and a final. No makeups will be given for the final exam. Please make sure that you have no conflicts with the final if you are taking this course.</li>
 
 
 
