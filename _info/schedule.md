@@ -6,8 +6,8 @@ layout: default
 
 # Schedule <a name="schedule"></a>
 
-* **Lecture**: TR 2:00pm -- 3:15pm NH 1105, ATTENDANCE IS HIGHLY RECOMMENDED.
-* **Lab**:(50 minute discussion sections) Wednesdays TBD (the CS department is still working on this)
+* **Lecture**: TR 2:00pm--3:15pm NH 1105, ATTENDANCE IS HIGHLY RECOMMENDED.
+* **Lab**:(50 minute discussion sections) Wednesdays starting at 5pm or 6pm in Phelps 3525.
 
 ## Schedule of office hours.
 
