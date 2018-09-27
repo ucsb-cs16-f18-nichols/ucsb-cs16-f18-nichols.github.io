@@ -38,6 +38,10 @@ title: "CS 16: Problem Solving with Computers I, Fall ’18, Nichols"
 
 [comment]: # %include exam_table.html %
 
+---
+
+*Most of the materials I'm using this quarter were made by Diba Mirza. Anything good about this class can be attributed to her, and all bad things are totally my fault* :)
+
 <!-- 
 </div>
 -->
