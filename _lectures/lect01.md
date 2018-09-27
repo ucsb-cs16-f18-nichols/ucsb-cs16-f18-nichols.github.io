@@ -2,7 +2,7 @@
 num: "lect01"
 lecture_date: 2018-09-27
 desc: "Course overview, a gentle intro to C++ - Standard I/O"
-ready: false
+ready: true
 pdfurl: /lectures/CS16_Lecture1.pdf
 annotatedpdfurl: /lectures/CS16_Lecture1_ann.pdf
 annotatedready: true
@@ -10,20 +10,15 @@ annotatedready: true
 
 # Code from lecture
 
-[https://github.com/ucsb-cs16-s18-mirza/cs16-s18-lectures/tree/master/lec-01](https://github.com/ucsb-cs16-s18-mirza/cs16-s18-lectures/tree/master/lec-01)
-
-
+<https://github.com/ucsb-cs16-f18-nichols/code-from-class/tree/master/09-28>
 
 # Topics
 
 ## Course logistics
 
 * Explore the course website and READ the syllabus
-* Get to know your mentor and ask about how to use Piazza for future communication
 * Ask questions about the course on Piazza (don't send emails to TAs and instructor)
 * If you email the instructor have [CS16] and a brief description of your question
-
-
 
 ## Concepts
 
@@ -31,7 +26,7 @@ annotatedready: true
     * the main function
     * namepsaces and include directives
     * commenting your code
-    * standard input, standard output and standard error with cin, cout, cerr
+    * standard input, standard output with cin, cout
 * The three stages of writing and executing C++ code: editing, compiling, (linking and) executing
 * Five components of a computer and why it matters
 * Compiling code with g++

@@ -24,20 +24,11 @@
     {{page.num}}
     {% if page.ready and page.pdfurl %} 
         <a href="{{ page.pdfurl }}" data-ajax="false">
-        Before Slides 
+        Slides 
         </a> 
     {% else %} 
-        Before Slides 
+        Slides 
     {% endif %} 
- </td>
- <td>
-    {{page.num}}
-    {% if page.annotatedready and page.annotatedpdfurl %} 
-        <a href="{{ page.annotatedpdfurl }}" data-ajax="false">   Annotated Slides
-        </a> 
-    {% else %} 
-        Annotated Slides 
-     {% endif %}
  </td>
 {% if next_link %}
  <td><a href="{{next_link}}">Next Lecture</a></td>
