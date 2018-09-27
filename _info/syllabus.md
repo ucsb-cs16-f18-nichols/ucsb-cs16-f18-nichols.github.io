@@ -25,8 +25,7 @@ You must contact the instructor for clarification if you receive information fro
 * Midterm Exams: 30%
 * Final Examination : 30%
 
-<p>To get credit for each homework, you must complete the corresponding quiz on gauchospace which is based on the homework. This will count as your homework turn in and is the only way to get credit for your homework. You must bring the homework to lecture the day after it is due for in-class discussion.<br />
-Thus <strong>attendance is required</strong>, and <strong>reading the assigned readings is required.</strong></p>
+<p>To get credit for each homework, you must complete the corresponding quiz on gauchospace which is based on the homework. This will count as your homework turn in and is the only way to get credit for your homework. 
 
 ## Grade assignment policy
 <table border="2">
@@ -79,7 +78,7 @@ Thus <strong>attendance is required</strong>, and <strong>reading the assigned r
 
 # Schedule <a name="schedule"></a>
 
-For lab, lecture and office hours please check the [course Google Calendar](/info/schedule/)
+For office hours please check the [course Google Calendar](/info/schedule/)
 For hw, lab and exam schedule, please check the [assignment calendar](/info/calendar/)
 
 

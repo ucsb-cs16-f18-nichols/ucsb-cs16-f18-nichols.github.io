@@ -142,7 +142,7 @@ Enter number of rows and columns:
 
 Each string printed by the program should include a newline at the end, but no other trailing whitespace (i.e. extra space characters at the end of the line).
 
-For this problem you have to use a for-loop and a while or do-while loop. While loops are similar in that the code inside the body of the while is repeated as long as the while condition is true. We will talk about this more in the next lecture. Here is the syntax for while
+For this problem you have to use a for-loop and a while or do-while loop. While loops are similar in that the code inside the body of the while is repeated as long as the while condition is true. Here is the syntax for while
 
 ```
 while('expression'){

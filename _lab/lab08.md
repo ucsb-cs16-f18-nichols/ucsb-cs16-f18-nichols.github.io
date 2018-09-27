@@ -33,8 +33,6 @@ This lab will have you do programming exercises with C strings, string class obj
 
 Note: Remember to push your work to github at the end of EVERY work session. That way, both partners always have access to the latest version of the code even if the code is being developed on one partner's CoE account.
 
-**Note that we will cover recursion in class on Wednesday. If you are unfamiliar with this topic, please do not attempt this lab until after Wednesday's lecture. Instead use the lab time to continue to work on lab07 and understanding the problems that you have been asked to solve in this lab.**
-
 # Step 2: Getting the starter code and writing the programs
 
 Clone your github repo in the ~/cs16/ directory. Then cd into your repo directory.
