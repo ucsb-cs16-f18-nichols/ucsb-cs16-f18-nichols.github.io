@@ -14,6 +14,8 @@ lecture_date: 2018-10-11
 
 # Topics
 
+## Precedence
+
 
 ## Test driven development
 
