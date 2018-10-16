@@ -254,7 +254,7 @@ To calculate x to the power of y, use the pow(x,y) function from the standard li
 
 <hr>
 
-Upload your files to your repo on github using github's web interface. (You will need to be on a csil machine and not remotely logged in to do this step)
+Upload your files to your repo on github using github's web interface. (You will need to be on a csil machine and not remotely logged in to do this step (because you need to use a web browser with access to those files). Disregard this if you're working on your own machine.)
 
 ### Calculate the minimum of 4 numbers
 
