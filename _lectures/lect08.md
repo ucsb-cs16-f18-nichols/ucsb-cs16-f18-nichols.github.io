@@ -1,14 +1,14 @@
 ---
 num: "lect08"
 desc: " Number Conversions, arrays, intro to lab04 "
-ready: false
+ready: true
 pdfurl: /lectures/CS16_Lecture8.pdf
 annotatedpdfurl: /lectures/CS16_Lecture8_ann.pdf
 annotatedready: true
 lecture_date: 2018-10-23
 ---
 # Code from lecture
-[https://github.com/ucsb-cs16-s18-mirza/cs16-s18-lectures/tree/master/lec-08](https://github.com/ucsb-cs16-s18-mirza/cs16-s18-lectures/tree/master/lec-08)
+<https://github.com/ucsb-cs16-f18-nichols/code-from-class/tree/master/10-23>
 
 ## Under the hood of program compilation and execution
 * From high-level programs to machine code
@@ -22,11 +22,9 @@ lecture_date: 2018-10-23
 * Header guards
 
 
-* Automate the compilation of code from lecture 5 using makefiles
-
 # Topics
-This lecture and many of the coming lectures require that we understand how our programs interact with computer memory. This is not required to understanding some of the programming constructs like arrays and pointers but is crucial for reasoning about weird program behavior and debugging. So, we will begin with a model of computer memory and then delve into C++ arrays and pointers
 
+## Memory
 
 ## C++ arrays
 * Intro to lab04
