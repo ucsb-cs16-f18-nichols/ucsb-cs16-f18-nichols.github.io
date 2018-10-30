@@ -1,7 +1,7 @@
 ---
 num: "lect09"
 desc: "Pointers"
-ready: false
+ready: true
 pdfurl: /lectures/CS16_Lecture9.pdf
 annotatedpdfurl: /lectures/CS16_Lecture9_ann.pdf
 annotatedready: true
@@ -11,7 +11,7 @@ lecture_date: 2018-10-30
 # Topics
 
 ## Code from lecture
-
+<https://github.com/ucsb-cs16-f18-nichols/code-from-class/tree/master/10-30>
 
 ## Pointers
 
@@ -20,8 +20,6 @@ lecture_date: 2018-10-30
 * The address and indirection operators: "&" and "*"
 * Pointers and arrays - similarities and dfferences
 * Passing arrays to functions - specifically looking at how arrays degnerate to pointers on function calls.
-
-
 
 
 ## Under the hood of function calls
