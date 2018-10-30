@@ -11,8 +11,6 @@ due: 2018-11-06 23:59:00.00-7
 <h1>CS16: Programming Assignment 04</h1>
 <h2>Introduction -- Important: Read this!</h2>
 
-The TAs will be looking for (and grading) your programming style, such as proper use of comments, tab indentation, good variable names, and overall block and function designs. So, it is not enough for your lab to pass gradescope tests! Please read the instructions herein <b>carefully</b>.
-
 <h3>Pair programming </h3>
 
 If working in a pair: Choose who will be the first driver and who will start as navigator, and then remember to switch (at least once) during the lab. But you should probably know the long-term goal too: each partner should participate in both roles in approximately equal parts over the course of the assignment. We realize it is not possible to equally split time in every lab perfectly, but it is worth trying, and it is possible to make up for unequal splits in future labs. We trust you will try to meet this goal. Thanks!
@@ -90,8 +88,6 @@ The files in your directory this week use separate compilation, that is each pro
 In Lecture, we will introduce the idea of separate compilation, where your C++ program may be divided among multiple source files. The following web page explains more about separate compilation, dividing your program up among multiple C++ and .h files, and using a Makefile. I strongly encourage you to read over it briefly before you proceed with the lab: [Separate Compilation and Makefiles](https://foo.cs.ucsb.edu/16wiki/index.php/C%2B%2B:_Separate_Compilation_and_Makefiles)
 
 ## Step 5: Writing isOdd(), isEven() and isPrime()<a name="step3"></a>
-
-Your first step is very simple to describe, but somewhat challenging. The challenge here is mostly C++ coding — we will not get into the details of the separate compilation until a bit later.
 
 To get started, do the following steps:
 
@@ -405,7 +401,7 @@ You will note that the gradescope score is worth 200 points. The grade will ulti
 
 <h2>Step 10: Done!</h2>
 
-Once your submission receives a score of 200/200, you are done with this assignment. Remember that we will check your code for appropriate comments, formatting, and the use of required code, as stated earlier, based on your github submission
+Once your submission receives a score of 200/200, you are done with this assignment.
 
 If you are in the Phelps lab or in CSIL, make sure to log out of the machine before you leave. Also, make sure to close all open programs before you log out. Some programs will not work next time if they are not closed. Remember to save all your open files before you close your text editor.
 

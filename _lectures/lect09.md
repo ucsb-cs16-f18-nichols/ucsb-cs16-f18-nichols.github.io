@@ -11,7 +11,7 @@ lecture_date: 2018-10-30
 # Topics
 
 ## Code from lecture
-[https://github.com/ucsb-cs16-s18-mirza/cs16-s18-lectures/tree/master/lec-09](https://github.com/ucsb-cs16-s18-mirza/cs16-s18-lectures/tree/master/lec-09)
+
 
 ## Pointers
 

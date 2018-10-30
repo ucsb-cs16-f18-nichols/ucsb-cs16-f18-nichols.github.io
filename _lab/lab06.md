@@ -19,7 +19,7 @@ The goal of this lab is get more practice with iterating through arrays and dyna
 
 2. If you are working as a pair, make sure that you submit as a pair on Gradescope at the end of the lab.  Choose who will be the first driver and who will start as navigator, and then remember to switch (at least once) during the lab.
 
-3. Go to github and create a git repo for this lab following the naming convention specified in previous labs (this step carries style points, see our feedback on previous labs to understand what we are looking for). If you are working with a partner only one of you needs to create the repo.
+3. Go to github and create a git repo for this lab following the naming convention specified in previous labs. If you are working with a partner only one of you needs to create the repo.
 
 4. If you are working with a partner and you are the one who created the github repo, add your partner as a collborator on the repo
 
@@ -269,15 +269,6 @@ Some of the points will be awarded based on gradescope automatic grading. Other 
 <tr><td><p style="color:green;margin:0;padding:0;">multiplyPairwise</p></td><td>(10 pts)</td></tr>
 <tr><td><p style="color:green;margin:0;padding:0;">createArray</p></td><td>(10 pts)</td></tr>
 </table>
-
-## Code inspection human-assigned points
-
-* (10 pts) Code style, including but not limited to:
-1. Code can be easily understood by humans familiar with C++ (including both the author(s) of the code, and non-authors of the code.)
-2. Code is neatly indented and formatted, following standard code indentation practices for C++ as illustrated in either the textbook, or example code given in lectures and labs
-3. Variable names choices are reasonable
-4. Code is reasonably "DRY" (as in "don't repeat yourself")&mdash;where appropriate, common code is factored out into functions
-5. Code is not unnecessarily or unreasonably complex when a simpler solution is available
 
 ## An important word about academic honesty and the gradescope system
 

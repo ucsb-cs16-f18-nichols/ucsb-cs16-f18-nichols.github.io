@@ -240,7 +240,7 @@ You will note that the gradescope score is worth 250 points. The grade will ulti
 
 ## Step 6: Done!
 
-Once your submission receives a score of 250/250, you are done with this assignment. Remember that we will check your code for appropriate comments, formatting, and the use of required code, as stated earlier, based on your github submission.
+Once your submission receives a score of 250/250, you are done with this assignment.
 
 If you are in the Phelps lab or in CSIL, make sure to log out of the machine before you leave. Also, make sure to close all open programs before you log out. Some programs will not work next time if they are not closed. Remember to save all your open files before you close your text editor.
 
