@@ -1,15 +1,17 @@
 ---
 num: "lect11"
 desc: "The good, bad and ugly about pointers"
-ready: false
+ready: true
 pdfurl: /lectures/CS16_Lecture11.pdf
 annotatedpdfurl: /lectures/CS16_Lecture11_ann.pdf
 annotatedready: true
 lecture_date:  2018-11-06
 ---
 
+<!--
+
 ## Code from lecture
-[https://github.com/ucsb-cs16-s18-mirza/cs16-s18-lectures/tree/master/lec-11](https://github.com/ucsb-cs16-s18-mirza/cs16-s18-lectures/tree/master/lec-11)
+
 
 #Topics
 
@@ -32,3 +34,6 @@ The ugly
 * Barebones model of memory: value vs address
 * Scope: local vs. global
 * Layout of compiled C++ program in memory: text, global data , heap and stack
+
+
+-->

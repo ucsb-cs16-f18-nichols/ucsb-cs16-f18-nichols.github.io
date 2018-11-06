@@ -1,6 +1,6 @@
 ---
 num: "lect10"
-desc: "Defining your own data types, intro to lab05"
+desc: "Defining your own data types"
 ready: true
 pdfurl: /lectures/CS16_Lecture10.pdf
 annotatedpdfurl: /lectures/CS16_Lecture10_ann.pdf

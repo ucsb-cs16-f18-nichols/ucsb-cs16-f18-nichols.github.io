@@ -238,6 +238,8 @@ This last point may or may not arise, but if it does, utility.h and utility.cpp 
 
 You will note that the gradescope score is worth 250 points. The grade will ultimately normalized to be out of 100 points. This lab is worth exactly the same as all the other labs done so far (i.e. the 250 points here are equivalent to 100 points in other labs).
 
+*To make things easier on the graders, please also submit your pointer diagram file to Gradescope along with your code.*
+
 ## Step 6: Done!
 
 Once your submission receives a score of 250/250, you are done with this assignment.
