@@ -1,6 +1,6 @@
 ---
 num: "lect11"
-desc: "The good, bad and ugly about pointers"
+desc: "The good, bad and ugly about pointers, C++ Memory Model, Dynamic memory allocation (Heap), Heap vs Stack"
 ready: true
 pdfurl: /lectures/CS16_Lecture11.pdf
 annotatedpdfurl: /lectures/CS16_Lecture11_ann.pdf
@@ -39,3 +39,6 @@ The ugly
 * Scope: local vs. global
 * Layout of compiled C++ program in memory: text, global data , heap and stack
 
+
+* A first look at dynamic memory allocation
+* The hows and whys of creating data on the stack vs. heap
