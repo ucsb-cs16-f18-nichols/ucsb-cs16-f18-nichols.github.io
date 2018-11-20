@@ -1,14 +1,14 @@
 ---
 num: "lect14"
-desc: "More on linked-lists"
-ready: false
+desc: "Recursion"
+ready: true
 pdfurl: /lectures/CS16_Lecture14.pdf
 annotatedpdfurl: /lectures/CS16_Lecture14_ann.pdf
 annotatedready: true
 lecture_date: 2018-11-20
 ---
 
-
+<!--
 ## Code from lecture
 [https://github.com/ucsb-cs16-s18-mirza/cs16-s18-lectures/tree/master/lec-14](https://github.com/ucsb-cs16-s18-mirza/cs16-s18-lectures/tree/master/lec-14)
 
@@ -22,3 +22,4 @@ lecture_date: 2018-11-20
 * Deleting a linked list
 * Problems with dynamic memory: memory leaks and dangling pointers
 
+-->
