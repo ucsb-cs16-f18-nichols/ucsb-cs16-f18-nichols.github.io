@@ -8,18 +8,16 @@ annotatedready: true
 lecture_date: 2018-11-20
 ---
 
-<!--
 ## Code from lecture
-[https://github.com/ucsb-cs16-s18-mirza/cs16-s18-lectures/tree/master/lec-14](https://github.com/ucsb-cs16-s18-mirza/cs16-s18-lectures/tree/master/lec-14)
 
-## Topics
+<https://github.com/ucsb-cs16-f18-nichols/code-from-class/tree/master/11-20>
 
-* Linked-lists
-* Iterating through linked lists using traversal pointers
-* Creating an empty list
-* Inserting in a list
-* Iterating through a list: length, search
-* Deleting a linked list
-* Problems with dynamic memory: memory leaks and dangling pointers
+## Stuff I wrote on the "whiteboard"
 
--->
+<https://1drv.ms/u/s!AlgIeD1urAgmceLrP2wubXSrMVs>
+
+# Topics
+
+* Thinking recursively about problems on sequences
+* Recursion vs. iteration via examples: printing elements of an array in order, summing elements of a linked-list
+* Order is very important: one line in the wrong spot makes you print the elements in reverse order
