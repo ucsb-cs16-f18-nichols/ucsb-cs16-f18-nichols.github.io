@@ -75,7 +75,7 @@ The above function takes a C++ string as input and returns true if an input stri
 ```
 int recursiveSum(Node* head);
 ```
-In recLinkedListFuncs.cpp you are asked to reimplement the sum function from last week, this time recursively. If there are no elements of the list, return the value 0;
+In recLinkedListFuncs.cpp you are asked to implement a function that sums the values of a list recursively. If there are no elements of the list, return the value 0;
 
 ## Program to recursively find the largest value of a linked list
 
@@ -83,7 +83,7 @@ In recLinkedListFuncs.cpp you are asked to reimplement the sum function from las
 int recursiveLargestValue(Node* head);
 ```
 
-In recLinkedListFuncs.cpp you are asked to reimplement the largestValue function from last week, this time recursively. For this function, you may assume that the linked list contains at least one value. 
+In recLinkedListFuncs.cpp you are asked to implement a function that recursively finds the largest value of a list. For this function, you may assume that the linked list contains at least one value. 
 
 ## Step 3: Submit
 

@@ -1,7 +1,7 @@
 ---
 num: "lect15"
-desc: "Recursion"
-ready: false
+desc: "Recursion and Strings"
+ready: true
 pdfurl: /lectures/CS16_Lecture15.pdf
 annotatedpdfurl: /lectures/CS16_Lecture15_ann.pdf
 annotatedready: true
@@ -13,8 +13,6 @@ lecture_date: 2018-11-27
 
 # Topics
 
-* Thinking recursively about problems on sequences
-* Recursion vs. iteration via examples: printing elements of an array in order and in reverse order, printing elements of a linked-list in order and in reverse order
 * How do we know our recursive solution is correct? Proof by induction
 * Is recursive better than iterative?
 * Problems that have a naturally recursive solution
@@ -28,3 +26,7 @@ lecture_date: 2018-11-27
 * Deleting all nodes in the linked-list (highlight issues with dynamic memory management)
 
 
+* char arrays, C-strings and string literals
+* Basic operations on C-Strings s
+* String class objects and methods (similarities and differences with c-strings)
+* Understanding the problems for lab08 - isAnagram
