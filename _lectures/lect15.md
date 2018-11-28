@@ -8,8 +8,14 @@ annotatedready: true
 lecture_date: 2018-11-27
 
 ---
-# Code from lecture
-[https://github.com/ucsb-cs16-s18-mirza/cs16-s18-lectures/tree/master/lec-15](https://github.com/ucsb-cs16-s18-mirza/cs16-s18-lectures/tree/master/lec-15)
+
+## Code from lecture
+
+<https://github.com/ucsb-cs16-f18-nichols/code-from-class/tree/master/11-27>
+
+## Stuff I wrote on the "whiteboard"
+
+<https://1drv.ms/u/s!AlgIeD1urAgmceLrP2wubXSrMVs>
 
 # Topics
 
