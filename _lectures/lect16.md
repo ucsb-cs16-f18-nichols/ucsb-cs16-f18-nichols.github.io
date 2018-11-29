@@ -1,20 +1,23 @@
 ---
 num: "lect16"
-desc: "Strings and recursion"
-ready: false
+desc: "Recursion wrap up"
+ready: true
 pdfurl: /lectures/CS16_Lecture16.pdf
 annotatedpdfurl: /lectures/CS16_Lecture16_ann.pdf
 annotatedready: true
 lecture_date: 2018-11-29
 ---
 
-# Topics
-
 <!--
-* char arrays, C-strings and string literals
-* Basic operations on C-Strings s
-* String class objects and methods (similarities and differences with c-strings)
-* Intro to lab08
-* Understanding the problems for lab08 - isAnagram
+
+## Code from lecture
+
+<https://github.com/ucsb-cs16-f18-nichols/code-from-class/tree/master/11-29>
+
+## Stuff I wrote on the "whiteboard"
+
+<https://1drv.ms/u/s!AlgIeD1urAgmceLrP2wubXSrMVs>
+
+# Topics
 
 -->
