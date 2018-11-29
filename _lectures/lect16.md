@@ -8,8 +8,6 @@ annotatedready: true
 lecture_date: 2018-11-29
 ---
 
-<!--
-
 ## Code from lecture
 
 <https://github.com/ucsb-cs16-f18-nichols/code-from-class/tree/master/11-29>
@@ -20,4 +18,6 @@ lecture_date: 2018-11-29
 
 # Topics
 
--->
+- Super awesome recursion example slides
+- Power function
+- Fibonacci sequence function
