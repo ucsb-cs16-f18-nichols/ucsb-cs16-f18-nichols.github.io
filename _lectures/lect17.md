@@ -16,6 +16,13 @@ lecture_date: 2018-12-04
 
 <https://1drv.ms/u/s!AlgIeD1urAgmceLrP2wubXSrMVs>
 
+## Topics
+
+- List deletion
+- Binary search
+- GDB
+- Lab 5 pointer diagram
+
 ---
 
 A nice write-up about pointers: <https://boredzo.org/pointers/>
